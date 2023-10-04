@@ -1,0 +1,15 @@
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\bin\Debug\net6.0\example006_zadacha.exe
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\bin\Debug\net6.0\example006_zadacha.deps.json
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\bin\Debug\net6.0\example006_zadacha.runtimeconfig.json
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\bin\Debug\net6.0\example006_zadacha.dll
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\bin\Debug\net6.0\example006_zadacha.pdb
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.csproj.AssemblyReference.cache
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.AssemblyInfoInputs.cache
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.AssemblyInfo.cs
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.csproj.CoreCompileInputs.cache
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.dll
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\refint\example006_zadacha.dll
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.pdb
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\example006_zadacha.genruntimeconfig.cache
+C:\Users\banan\OneDrive\Рабочий стол\полезное\GeekBrains\examples\example006_zadacha\obj\Debug\net6.0\ref\example006_zadacha.dll
